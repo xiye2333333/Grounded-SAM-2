@@ -1,0 +1,15 @@
+Analysis summary
+Sequences found: 50
+1) Default no-GT vs SAM baseline
+   Mean SAM baseline IoU: 0.6208
+   Mean default no-GT IoU: 0.7200
+   Mean gain over SAM: 0.0992
+2) Ablation
+   Mean scored IoU by ablation:
+   - no_area: 0.7205
+   - default_full: 0.7200
+   - no_silhouette: 0.7048
+   - no_center: 0.6911
+   - no_border: 0.6638
+3) Partial-GT optimized vs default
+   Mean gain of optimized over default: 0.0580

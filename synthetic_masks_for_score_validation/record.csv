@@ -1,0 +1,5 @@
+name, W_AREA, W_CENTER, W_BORDER, W_SIL, Q_BORDER(0.2), t_area(0.4), MAX_VALUE
+E_max_centered_small_circle_search,0,0,1,0,-,-,0.955
+C_zero_corner_rect,->0,0,0,1,-,-,->1
+Sil_zero_thin_ring_big_hole,->0,->1,0,0,-,-,->1
+Sil_low_many_blobs,1,0,0,0,-,0.1,0.968

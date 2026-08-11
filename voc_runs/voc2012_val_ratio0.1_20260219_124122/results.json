@@ -1,0 +1,543 @@
+{
+  "baseline": {
+    "per_class": {
+      "aeroplane": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bicycle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bird": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "boat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bottle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bus": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "car": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "chair": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cow": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "diningtable": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "dog": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "horse": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "motorbike": {
+        "mean": 0.15099750289241318,
+        "std": 0.3674182115118179,
+        "min": 0.0,
+        "max": 0.9009781977949101,
+        "n": 6
+      },
+      "person": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "pottedplant": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sheep": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sofa": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "train": {
+        "mean": 0.20826484509955764,
+        "std": 0.3905238478213532,
+        "min": 0.0,
+        "max": 0.977284517417581,
+        "n": 11
+      },
+      "tvmonitor": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      }
+    },
+    "overall": {
+      "mean": 0.18805284196762428,
+      "std": 0.3718872336328245,
+      "min": 0.0,
+      "max": 0.977284517417581,
+      "n": 17
+    }
+  },
+  "default_score": {
+    "per_class": {
+      "aeroplane": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bicycle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bird": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "boat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bottle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bus": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "car": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "chair": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cow": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "diningtable": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "dog": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "horse": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "motorbike": {
+        "mean": 0.1509975045482861,
+        "std": 0.3674182154985245,
+        "min": 0.0,
+        "max": 0.9009782075881958,
+        "n": 6
+      },
+      "person": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "pottedplant": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sheep": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sofa": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "train": {
+        "mean": 0.20826484306863594,
+        "std": 0.3905238446301141,
+        "min": 0.0,
+        "max": 0.9772844910621643,
+        "n": 11
+      },
+      "tvmonitor": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      }
+    },
+    "overall": {
+      "mean": 0.18805284123792423,
+      "std": 0.3718872326314626,
+      "min": 0.0,
+      "max": 0.9772844910621643,
+      "n": 17
+    }
+  },
+  "optimized_score": {
+    "per_class": {
+      "aeroplane": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bicycle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bird": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "boat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bottle": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "bus": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "car": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cat": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "chair": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "cow": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "diningtable": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "dog": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "horse": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "motorbike": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "person": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "pottedplant": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sheep": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "sofa": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "train": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      },
+      "tvmonitor": {
+        "mean": 0.0,
+        "std": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 0
+      }
+    },
+    "overall": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "n": 0
+    }
+  },
+  "optimized_params": {
+    "per_class": {
+      "aeroplane": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "bicycle": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "bird": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "boat": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "bottle": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "bus": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "car": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "cat": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "chair": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "cow": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "diningtable": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "dog": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "horse": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "motorbike": {
+        "note": "too_few_samples",
+        "n": 6
+      },
+      "person": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "pottedplant": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "sheep": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "sofa": {
+        "note": "too_few_samples",
+        "n": 0
+      },
+      "train": {
+        "note": "too_few_samples",
+        "n": 11
+      },
+      "tvmonitor": {
+        "note": "too_few_samples",
+        "n": 0
+      }
+    },
+    "overall": {
+      "note": "too_few_samples",
+      "n": 17
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Selection Rule,Mean IoU,Gain over SAM,Notes
+SAM confidence,0.6208337433604465,0.0,raw SAM score
+"Ours (default, no GT)",0.7434193832014346,0.12258563984098814,fixed training-free score
+Ours (optimized with partial GT),0.7780685380402295,0.15723479467978296,sequence-level tuned parameters

@@ -1,0 +1,6 @@
+{
+  "num_sequences": 50,
+  "total_result_json": 2799,
+  "total_gt_json": 2799,
+  "total_mask_png": 19548
+}

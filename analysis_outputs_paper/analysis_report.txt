@@ -1,0 +1,25 @@
+DAVIS experiment analysis report
+========================================
+
+[Section 4.1] Experimental Setup
+- Number of sequences: 50
+- Total result json files: 2799
+- Total gt json files: 2799
+- Total mask png files: 19548
+
+[Section 4.2] Main Evaluation
+- Mean SAM baseline IoU: 0.6208
+- Mean default(no GT) IoU: 0.7434
+- Mean gain over SAM: 0.1226
+- Mean optimized(partial GT) IoU: 0.7781
+
+[Section 4.4] Ablation
+- default_full: 0.7334
+- no_center: 0.7176
+- no_area: 0.7161
+- no_silhouette: 0.7097
+- no_border: 0.6875
+
+[Section 4.5] Partial-GT Calibration
+- Mean gain of optimized over default: 0.0346
+
